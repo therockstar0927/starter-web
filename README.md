@@ -13,3 +13,6 @@ The deployment description goes here
 
 ## How to Contriute
 This section tells how to contribute
+
+### Copyright
+@ 2017 Git.Training
