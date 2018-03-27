@@ -12,7 +12,7 @@ A purpose of the document is listed here
 The deployment description goes here
 
 ## How to Contriute
-This section tells how to contribute
+Please fork this repository and then issue Pull Requestfor review
 
 ### Copyright
 @ 2017 Git.Training
